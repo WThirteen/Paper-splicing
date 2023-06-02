@@ -1,6 +1,6 @@
 %% 导入图像
 clear;clc;
-path_part='xxx\附件1\';
+path_part='xxx\附件1\';  %%这里为附件1存放的地址
 all_cell={};% 创建0*0的元胞
 n=19; %多少个
 for i=1-1:n-1
